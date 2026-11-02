@@ -45,12 +45,11 @@ The project includes the following SQL analyses:
 
 ## 🔍 Key Findings
 
-- Total revenue reached approximately **16.01 million BRL**.
-- Average Order Value was approximately **160.99 BRL**.
-- The average delivery time for on-time orders was approximately **10 days**.
-- Credit card was the dominant payment method by transaction value.
-- Revenue increased year over year.
-- Revenue growth reached approximately **20% in 2018**.
+## 📈 Revenue Growth
+
+The analysis shows that revenue increased year over year, with revenue growth reaching approximately 12% in 2017 and 20% in 2018.
+![Revenue Growth](revenue_growth.png)
+
 
 ## 💡 Business Insights
 
