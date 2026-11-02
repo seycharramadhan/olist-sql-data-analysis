@@ -62,6 +62,12 @@ The analysis compares orders delivered on time with delayed orders.
 
 ![Delivery Performance](delivery_performance.png)
 
+## 🛍️ Top Product Categories
+
+The analysis identifies the top 5 product categories based on total revenue.
+
+![Top Product Categories](top_product_categories.png)
+
 ## 💡 Business Insights
 
 The analysis shows positive revenue growth and strong customer adoption of credit card payments.
