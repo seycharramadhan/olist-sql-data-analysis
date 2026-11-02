@@ -56,6 +56,11 @@ Credit card is the dominant payment method by both transaction volume and total 
 
 ![Payment Methods](payment_methods.png)
 
+## 🚚 Delivery Performance
+
+The analysis compares orders delivered on time with delayed orders.
+
+![Delivery Performance](delivery_performance.png)
 
 ## 💡 Business Insights
 
