@@ -70,25 +70,33 @@ The analysis identifies the top 5 product categories based on total revenue.
 
 ## 💡 Business Insights
 
-The analysis shows positive revenue growth and strong customer adoption of credit card payments.
-
-Delivery performance and customer ratings were also analyzed to understand the potential relationship between logistics performance and customer satisfaction.
-
-Seller and product category analysis can help identify high-performing areas that may contribute significantly to overall revenue.
+- Revenue showed positive year-over-year growth, increasing by approximately 12% in 2017 and 20% in 2018.
+- Credit card was the dominant payment method in both transaction volume and total payment value.
+- Delivery performance was analyzed to identify on-time and delayed orders and its potential relationship with customer ratings.
+- Health & Beauty was the highest-revenue product category among the analyzed categories.
+- Seller analysis helped identify high-performing sellers based on revenue and order volume.
 
 ## 📁 Project Structure
 
 ```text
 Olist-SQL-Data-Analysis/
-│
 ├── analysis.sql
-└── README.md
-
-📚 Dataset
-Olist Brazilian E-Commerce Public Dataset.
-
+├── README.md
+├── revenue_growth.png
+├── payment_methods.png
+├── delivery_performance.png
+└── top_product_categories.png
 The dataset contains information about orders, customers, sellers, products, payments, reviews, and delivery.
+
 👤 Author
 Seychar Ramadhan
-
 Data Analyst Portfolio Project
+
+🛠️ Tools
+- PostgreSQL
+- DBeaver
+- SQL
+- GitHub
+
+📌 Conclusion
+This project demonstrates the use of SQL to analyze e-commerce data and generate business insights related to revenue, customers, payments, products, sellers, reviews, and delivery performance.
