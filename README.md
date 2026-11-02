@@ -50,6 +50,12 @@ The project includes the following SQL analyses:
 The analysis shows that revenue increased year over year, with revenue growth reaching approximately 12% in 2017 and 20% in 2018.
 ![Revenue Growth](revenue_growth.png)
 
+## 💳 Payment Methods
+
+Credit card is the dominant payment method by both transaction volume and total payment value.
+
+![Payment Methods](payment_methods.png)
+
 
 ## 💡 Business Insights
 
